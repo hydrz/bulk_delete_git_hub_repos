@@ -10,7 +10,7 @@ Bulk-delete GitHub Repositorys
 
    - Search for demo/[a-zA-Z0-9-_]\* , i.e., where each repo was forked from: demo/
 
-   - Use Alt+L to copy repos name
+   - Use Alt+L to select all matched
 
 4. Modify run.sh and Run it
 
